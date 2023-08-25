@@ -16,7 +16,7 @@ Paper: [UMAP reveals cryptic population structure and phenotype heterogeneity in
 Related Github repositories:
 * Code for the paper: https://github.com/diazale/gt-dimred
 * An interactive Python notebook with data from the Thousand Genomes Project: https://github.com/diazale/1KGP_dimred
-* Code for a [review paper](https://www.nature.com/articles/s10038-020-00851-4) of UMAP in population genetics: github.com/diazale/umap_review/
+* Code for a [review paper](https://www.nature.com/articles/s10038-020-00851-4) of UMAP in population genetics: https://github.com/diazale/umap_review/
 
 ### Stratification of biobank data
 
