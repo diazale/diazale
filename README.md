@@ -14,9 +14,9 @@ UMAP is an efficient method to visualize biobank data. You can find structure in
 Paper: [UMAP reveals cryptic population structure and phenotype heterogeneity in large genomic cohorts](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008432), Diaz-Papkovich et al, PLoS Genetics, 2019.
 
 Related Github repositories:
-* Code for the paper: https://github.com/diazale/gt-dimred
-* An interactive Python notebook with data from the Thousand Genomes Project: https://github.com/diazale/1KGP_dimred
-* Code for a [review paper](https://www.nature.com/articles/s10038-020-00851-4) of UMAP in population genetics: https://github.com/diazale/umap_review/
+* [Code for the paper](https://github.com/diazale/gt-dimred)
+* [Interactive Python notebook with data from the Thousand Genomes Project](https://github.com/diazale/1KGP_dimred)
+* [Code](https://github.com/diazale/umap_review/) for a [review paper](https://www.nature.com/articles/s10038-020-00851-4) of UMAP in population genetics
 
 ### Stratification of biobank data
 
@@ -25,7 +25,7 @@ Though UMAP tends to generate clusters, it is not a clustering algorithm. To ext
 Preprint: [Topological stratification of continuous genetic variation in large biobanks](https://www.biorxiv.org/content/10.1101/2023.07.06.548007v1.abstract), Diaz-Papkovich et al, bioRxiv, 2023.
 
 Related Github repositories:
-* Code for the paper, including some demonstration scripts using data from the Thousand Genomes Project: https://github.com/diazale/topstrat/
+* [Code and demo scripts using data from the Thousand Genomes Project](https://github.com/diazale/topstrat/)
 
 <!--
 **diazale/diazale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
