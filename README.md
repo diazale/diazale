@@ -5,7 +5,7 @@
 - I like to study the world through data. Some of my side-projects include [tracking the length of the Rideau Canal skating season](https://github.com/diazale/skateway) and [collecting news stories of traffic violence](https://github.com/diazale/death_by_car)
 - You can find my published research on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=CwGsVS0AAAAJ)
 
-__My core reearch projects__:
+__My core research projects__:
 
 ### Non-linear dimensionality reduction for visualizing population genetic data
 
