@@ -20,7 +20,7 @@ Related Github repositories:
 
 ### Stratification of biobank data
 
-Though UMAP tends to generate clusters, it is not a clustering algorithm. To extract clusters from UMAP data, we use a density-based method called HDBSCAN. We can use this for (stratification)[https://en.wikipedia.org/wiki/Stratified_sampling] to get a better grasp of the population structure in our data, study how methods like polygenic scores transfer between populations, and do QC on biobank data.
+Though UMAP tends to generate clusters, it is not a clustering algorithm. To extract clusters from UMAP data, we use a density-based method called HDBSCAN. We can use this for [stratification](https://en.wikipedia.org/wiki/Stratified_sampling) to get a better grasp of the population structure in our data, study how methods like polygenic scores transfer between populations, and do QC on biobank data.
 
 Preprint: [Topological stratification of continuous genetic variation in large biobanks](https://www.biorxiv.org/content/10.1101/2023.07.06.548007v1.abstract), Diaz-Papkovich et al, bioRxiv, 2023.
 
