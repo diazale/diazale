@@ -1,7 +1,7 @@
 ### 🧮🧬 I'm Alex, a statistician and data scientist doing PhD research in population genetics 🧬🧮
 
-- I'm currently at McGill University finishing my PhD in [Quantitative Life Sciences](https://www.mcgill.ca/qls/)
-- I work with [Simon Gravel](https://gravellab.github.io/) studying dimensionality reduction and visualization in population genetics
+- I'm currently at Brown University doing a postdoc at the Data Science Institute with [Sohini Ramachandran](https://www.brown.edu/Research/Ramachandran_Lab/research/)
+- My PhD work was at McGill University in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) with [Simon Gravel](https://gravellab.github.io/) 
 - I like to study the world through data. Some of my side-projects include [tracking the length of the Rideau Canal skating season](https://github.com/diazale/skateway) and [collecting news stories of traffic violence](https://github.com/diazale/death_by_car)
 - You can find my published research on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=CwGsVS0AAAAJ)
 
