@@ -1,11 +1,10 @@
-### 🧮🧬 I'm Alex, a statistician and data scientist doing PhD research in population genetics 🧬🧮
+### 🧮🧬 Alex Diaz-Papkovich, PhD 🧬🧮
 
-- I'm currently at Brown University doing a postdoc at the Data Science Institute with [Sohini Ramachandran](https://www.brown.edu/Research/Ramachandran_Lab/research/)
-- My PhD work was at McGill University in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) with [Simon Gravel](https://gravellab.github.io/) 
-- I like to study the world through data. Some of my side-projects include [tracking the length of the Rideau Canal skating season](https://github.com/diazale/skateway) and [collecting news stories of traffic violence](https://github.com/diazale/death_by_car)
-- You can find my published research on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=CwGsVS0AAAAJ)
+I'm a statistician and data scientist. I'm currently at Brown University working as a postdoctoral research associate at the Data Science Institute with [Sohini Ramachandran](https://www.brown.edu/Research/Ramachandran_Lab/research/). My PhD work was at McGill University in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) with [Simon Gravel](https://gravellab.github.io/), where I studied topological data analysis methods for genetic data. You can find my published research on [Google Scholar](https://scholar.google.ca/citations?hl=en&user=CwGsVS0AAAAJ).
 
-__My core research projects__:
+I also enjoy collecting data on a variety of topics. Some of my side-projects include [tracking the length of the Rideau Canal skating season](https://github.com/diazale/skateway) and [collecting news stories of traffic violence](https://github.com/diazale/death_by_car).
+
+Some of my academic research:
 
 ### Non-linear dimensionality reduction for visualizing population genetic data
 
@@ -16,7 +15,7 @@ Paper: [UMAP reveals cryptic population structure and phenotype heterogeneity in
 Related Github repositories:
 * [Code for the paper](https://github.com/diazale/gt-dimred)
 * [Interactive Python notebook with data from the Thousand Genomes Project](https://github.com/diazale/1KGP_dimred)
-* [Code](https://github.com/diazale/umap_review/) for a [review paper](https://www.nature.com/articles/s10038-020-00851-4) of UMAP in population genetics
+* I also have [code](https://github.com/diazale/umap_review/) for a [review paper](https://www.nature.com/articles/s10038-020-00851-4) of UMAP in population genetics
 
 ### Stratification of biobank data
 
